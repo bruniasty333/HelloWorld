@@ -39,7 +39,7 @@ namespace HelloWorld
                 Console.WriteLine();
             }
 
-            Console.WriteLine("Good bye!");
+            Console.WriteLine("Night, night!");
         }
     }
 }
